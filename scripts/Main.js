@@ -1,4 +1,4 @@
-//  Declare all variables (like player, rock, paper, sizz, round, scores for player and comp)
+//  Declare all variables 
 var playerScore = 0;
 var computerScore = 0;
 var round = 0;
